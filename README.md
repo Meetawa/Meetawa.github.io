@@ -10,8 +10,8 @@
 
 ### DEMO
 
-![Alt text](https://github.com/rahulmeetawa/projects-photos/blob/master/rahul-saini/RS-1.png)
-![Alt text](https://github.com/rahulmeetawa/projects-photos/blob/master/rahul-saini/RS-2.png)
+![Alt text](https://github.com/Meetawa/projects-photos/blob/master/rahul-saini/RS-1.png)
+![Alt text](https://github.com/Meetawa/projects-photos/blob/master/rahul-saini/RS-2.png)
 
 ---
 
