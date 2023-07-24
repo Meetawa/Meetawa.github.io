@@ -61,7 +61,7 @@
   },
   {
     "name": "Portfolio-Using-React",
-    "desc": "My Portfolio, built using React, is a dynamic and interactive showcase of my skills, projects, and accomplishments. With a modern and user-friendly design, it provides visitors with an engaging experience as they explore my professional journey and expertise.",
+    "desc": "My Portfolio, built using React,It showcase of my skills, projects,it provides visitors with an engaging experience as they explore my professional journey and expertise.",
     "image": "R-2",
     "category": "mern",
     "links": {
@@ -71,7 +71,7 @@
   },
   {
     "name": "expense-tracker",
-    "desc": "Tracking your spending is often the first step in getting your finances in order. By understanding what you spend money on and how much you spend, you can see exactly where your cash is going and areas where you can cut back.",
+    "desc": "My Portfolio, built using React, you can see exactly where your cash is going and areas where you can cut back.",
     "image": "expense",
     "category": "mern",
     "links": {
