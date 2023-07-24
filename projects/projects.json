@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Simple-Portfolio",
+    "desc": "A simple portfolio website created with HTML and CSS is an elegant way for individuals to showcase their skills, projects, and experiences",
+    "image": "portfolio-img",
+    "category": "basicweb",
+    "links": {
+      "view": "https://meetawa.github.io/portfolio-website/",
+      "code": "https://github.com/Meetawa/portfolio-website"
+    }
+  },
+  {
+    "name": "Responsive-Portfolio",
+    "desc": "A Responsive portfolio website created with HTML , CSS And JavaScript is an elegant way for individuals to showcase their skills, projects, and experiences",
+    "image": "RS-1",
+    "category": "basicweb",
+    "links": {
+      "view": "https://meetawa.github.io/Rahul-Saini/",
+      "code": "https://github.com/Meetawa/Rahul-Saini"
+    }
+  },
+  {
+    "name": "Find-Github-User",
+    "desc": "In this project we can finding github user details using github username with the Help HTML , CSS And JavaScript",
+    "image": "Find-github-user",
+    "category": "basicweb",
+    "links": {
+      "view": "https://meetawa.github.io/find-github-user/",
+      "code": "https://github.com/Meetawa/find-github-user"
+    }
+  },
+  {
+    "name": "Spotify-Clone",
+    "desc": "It Is Clone of spotify which complete online music platform , it made by HTML,CSS AND JS(JavaScript)",
+    "image": "spotify",
+    "category": "basicweb",
+    "links": {
+      "view": "https://meetawa.github.io/spotify-clone/",
+      "code": "https://github.com/Meetawa/spotify-clone"
+    }
+  },
+  {
+    "name": "Movies-Information",
+    "desc": "This Project is a review of the movie and this project is made with the help of html css or javascript",
+    "image": "Movies-app",
+    "category": "basicweb",
+    "links": {
+      "view": "https://meetawa.github.io/movie-information-app/",
+      "code": "https://github.com/Meetawa/movie-information-app"
+    }
+  },
+  {
+    "name": "Jokes-Box",
+    "desc": "This Project is made by html,css,javascript, In this project we making a box which is give some dad jokes and add button for another jokes",
+    "image": "jokes",
+    "category": "basicweb",
+    "links": {
+      "view": "https://meetawa.github.io/jokes-box/",
+      "code": "https://github.com/Meetawa/jokes-box"
+    }
+  },
+  {
+    "name": "Portfolio-Using-React",
+    "desc": "My Portfolio, built using React, is a dynamic and interactive showcase of my skills, projects, and accomplishments. With a modern and user-friendly design, it provides visitors with an engaging experience as they explore my professional journey and expertise.",
+    "image": "R-2",
+    "category": "mern",
+    "links": {
+      "view": "https://meetawa-react-portfolio.netlify.app/",
+      "code": "https://github.com/Meetawa/portfolio-using-react"
+    }
+  },
+  {
+    "name": "expense-tracker",
+    "desc": "Tracking your spending is often the first step in getting your finances in order. By understanding what you spend money on and how much you spend, you can see exactly where your cash is going and areas where you can cut back.",
+    "image": "expense",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Meetawa/expense-tracker",
+      "code": "https://github.com/Meetawa/expense-tracker"
+    }
+  },
+  {
+    "name": "Chuck-Norris-App",
+    "desc": "My Project, built using React, In this project we making Different box which is give some Good jokes and add button for another jokes",
+    "image": "Chuck",
+    "category": "mern",
+    "links": {
+      "view": "https://meetawa-chuck-norris-app.netlify.app/",
+      "code": "https://github.com/Meetawa/chuck-norris-app"
+    }
+  },
+  {
+    "name": "Record-Keeper",
+    "desc": "My Project, built using React, In this project is Store the all the record of user name and email address.",
+    "image": "Record",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/Meetawa/record-keeper",
+      "code": "https://github.com/Meetawa/record-keeper"
+    }
+  }
+]
