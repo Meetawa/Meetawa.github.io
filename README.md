@@ -1,20 +1,29 @@
-# Responsive Portfolio Website RahuL
+# Responsive Portfolio Website Rahul
 
-### Responsive Portfolio Website RahuL
+### Responsive Portfolio Website Rahul
 
 - Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
-- Includes a light and dark mode.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-### lIVE DEMO
-Web-Page:https://meetawa.github.io/
+### LIVE DEMO :
 
-### DEMO
+Web-Page : https://meetawa.github.io/
 
-![Alt text](https://github.com/Meetawa/projects-photos/blob/master/rahul-saini/RS-1.png)
-![Alt text](https://github.com/Meetawa/projects-photos/blob/master/rahul-saini/RS-2.png)
+### TOOLS USED :
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### DESKTOP DEMO :
+
+![Alt text](assets/SS1.png)
+
+### MOBILE DEMO :
+
+![Alt text](assets/SS2.png)
 
 ---
 
